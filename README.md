@@ -89,6 +89,14 @@ Using this data, the project aimed to perform an in-depth analysis and develop f
 | **Coefficient of Determination (R²)** | 0.989 |Reflected an excellent model fit, meaning approximately **98.9%** of the variance in observed COVID-19 deaths was accurately captured by the forecasting model, demonstrating strong forecastive capability. |
 
 ---
+
+<p align="center">
+    <img src="Visualization of the COVID-19 Exploratory Analysis on PowerBI Dashboard.png" alt="Visualization of the COVID-19 Exploratory Analysis on PowerBI Dashboard" width="1500"/>
+    <br>
+    <em> Visualization of the COVID-19 Exploratory Analysis on PowerBI Dashboard</em>
+</p>
+
+---
 ## 💡 Key Findings
 
 - **Global trend:** COVID-19 cases and deaths showed a sharp rise between **March 2020 and February 2021**, with multiple peaks corresponding to major outbreak waves.  
@@ -104,6 +112,6 @@ Using this data, the project aimed to perform an in-depth analysis and develop f
 
 ## 📌 Note
 
-Please kindly note that this README file is a summarized version of the full implementation of this project. The complete implementation can be accessed via the [program script](COVID-19-Exploratory-Data-Analysis-and-Forecasting.ipynb).
+Please kindly note that this README file is a summarized version of the full implementation of this project. The complete implementation can be accessed via the [program script](COVID-19-Exploratory-Data-Analysis-and-Forecasting.ipynb) and analysis [visualization](COVID-19-Exploratory-Data-Analysis-(PowerBI-Visualization).pbix).
 
 ---
