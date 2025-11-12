@@ -31,3 +31,5 @@ Using this data, the project aimed to perform an in-depth analysis and develop f
 | **Model Evaluation** | prophet.diagnostics (cross_validation) | Used to evaluate model performance and accuracy. |
 
 ----
+
+## 🪜 Step-by-Step-Procedure
