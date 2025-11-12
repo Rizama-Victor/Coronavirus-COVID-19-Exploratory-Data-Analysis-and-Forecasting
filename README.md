@@ -33,3 +33,11 @@ Using this data, the project aimed to perform an in-depth analysis and develop f
 ----
 
 ## 🪜 Step-by-Step-Procedure
+
+---
+
+## 📌 Note
+
+Please kindly note that this README file is a summarized version of the full implementation of this project. The complete implementation can be accessed via the [program script](COVID-19-Exploratory-Data-Analysis-and-Forecasting.ipynb).
+
+---
