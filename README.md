@@ -18,3 +18,16 @@ Using this data, the project aimed to perform an in-depth analysis and develop f
 ---
 
 ## 🤖 Tools and Technologies Used
+
+| Category | Tools / Libraries | Description |
+|-----------|------------------|--------------|
+| **Programming Language** | Python | Core language used for data analysis, visualization, and forecasting. |
+| **Data Handling** | pandas, numpy | Used for data cleaning, transformation, and manipulation. |
+| **Visualization** | matplotlib, seaborn, plotly (express & graph_objects) | Assisted in creating both static and interactive visualizations for data exploration. |
+| **Statistical Analysis** | scipy (zscore, boxcox) | Used for outlier detection and transformation of skewed data. |
+| **Forecasting Model** | Prophet | Used for time-series forecasting of COVID-19 cases and deaths. |
+| **Machine Learning Utility** | sklearn.preprocessing (LabelEncoder) | Encoded categorical data for model compatibility. |
+| **Country Mapping** | pycountry | Mapped ISO country codes to country names for geographical analysis. |
+| **Model Evaluation** | prophet.diagnostics (cross_validation) | Used to evaluate model performance and accuracy. |
+
+----
