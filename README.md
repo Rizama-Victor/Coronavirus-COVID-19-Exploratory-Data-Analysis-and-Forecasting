@@ -1,4 +1,4 @@
-# COVID-19 🧬 Exploratory Data Analysis 📊 and Forecasting
+# Coronavirus (COVID-19) 🧬 Exploratory Data Analysis 📊 and Forecasting
 This repository contains the implementation of my project titled _"COVID-19 Exploratory Data Analysis and Forecasting"_, at the National Centre for Artificial Intelligence and Robotics (NCAIR), Nigeria.
 
 ---
