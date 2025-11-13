@@ -6,7 +6,7 @@ This repository contains the implementation of my project titled _"COVID-19 Expl
 ## 🧠 Overview
 
 This project explored global COVID-19 data covering `confirmed`, `recovered`, and `death` cases recorded between January 2020 and May 2021, categorized by country and province. The dataset provided key metrics reflecting the pandemic’s progression and its varying impact across regions. 
-Using this data, the project aimed to perform an in-depth analysis and develop forecasting models to forecast future death cases in each province or state for every country.
+Using this data, the project aimed to perform an in-depth analysis and develop a forecasting model to forecast future death cases in each province or state for every country.
 
 ---
 
